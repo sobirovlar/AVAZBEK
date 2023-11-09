@@ -1,0 +1,19 @@
+.card{
+    border: 5px  solid  red;
+    width: 400px;
+    height:400px;
+    text-align: center;
+    text-transform:capitalize;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow:0 0  20px   black ;
+}
+h1{
+color: blue;
+text-shadow:0 0 20px black;
+
+}
+p{
+  color: rgb(55, 0, 254);
+
+}
